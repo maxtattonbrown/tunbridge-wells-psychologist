@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# macOS
+.DS_Store
+
+# Scripts (no longer needed)
+cleanup_squarespace.py
+add_menu_script.py
